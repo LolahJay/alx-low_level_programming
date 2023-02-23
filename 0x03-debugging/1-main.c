@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
-* main - it is causing an infinite loop
+* main - causes an infinite loop
 * Return: 0
 */
 
 
 
 int main(void)
-
 {
         int i;
 
